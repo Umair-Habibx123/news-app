@@ -11,6 +11,10 @@
 
 News comes from [NewsAPI.org](https://newsapi.org/).
 
+| Home | Article | Saved | Settings |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/home.jpg" width="200" alt="Home: category chips, a Trending carousel and the Latest News list"> | <img src="docs/screenshots/article.jpg" width="200" alt="Article view with source, date, author, and bookmark and share buttons"> | <img src="docs/screenshots/bookmarks.jpg" width="200" alt="Saved articles list with a Clear Bookmarks button"> | <img src="docs/screenshots/settings.jpg" width="200" alt="Settings: theme, app language, preferred source, news language and sort order"> |
+
 ## Features
 
 - **Headlines:** trending stories in a horizontal carousel, then the latest news in a scrolling list with pull-to-refresh and infinite scroll

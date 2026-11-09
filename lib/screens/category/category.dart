@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:news_app/services/news_provider_api.dart';
-import 'package:news_app/screens/Category/widgets/category_app_bar.dart';
-import 'package:news_app/screens/Category/widgets/category_buttons.dart';
-import 'package:news_app/screens/Category/widgets/news_list.dart';
+import 'package:news_app/screens/category/widgets/category_app_bar.dart';
+import 'package:news_app/screens/category/widgets/category_buttons.dart';
+import 'package:news_app/screens/category/widgets/news_list.dart';
 
 class CategoryScreen extends StatefulWidget {
   const CategoryScreen({super.key});

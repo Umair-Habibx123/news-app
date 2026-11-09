@@ -42,7 +42,6 @@ api.http
 .pub-cache/
 .pub/
 build/
-pubspec.lock
 
 # ============================================================
 # GENERATED / DOC FILES
@@ -134,3 +133,5 @@ app.*.map.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Commit the Dart lock file so CI and releases use the exact tested versions
+!pubspec.lock
